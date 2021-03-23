@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The Course is [Learning React JS 5](https://www.linkedin.com/learning/learning-react-js-5/)
+
 ## Available Scripts
 
 In the project directory, you can run:
